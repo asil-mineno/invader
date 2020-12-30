@@ -1,0 +1,13 @@
+('resources',
+ 'resources',
+ [],
+ 'DATA',
+ [('resources\\cannon.jpeg', 'resources\\cannon.jpeg', 'DATA'),
+  ('resources\\crab.jpeg', 'resources\\crab.jpeg', 'DATA'),
+  ('resources\\destruction1.mp3', 'resources\\destruction1.mp3', 'DATA'),
+  ('resources\\explosion7.mp3', 'resources\\explosion7.mp3', 'DATA'),
+  ('resources\\Fnf_Victshort.mp3', 'resources\\Fnf_Victshort.mp3', 'DATA'),
+  ('resources\\futta-gameover3t.mp3',
+   'resources\\futta-gameover3t.mp3',
+   'DATA'),
+  ('resources\\laser1.mp3', 'resources\\laser1.mp3', 'DATA')])
